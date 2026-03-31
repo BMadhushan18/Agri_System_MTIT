@@ -9,7 +9,7 @@
 Frontend (HTML/CSS/JS)
         |
         v
-API Gateway (port 8000)
+API Gateway (port 8010)
         |
    _____|_____________________
    |         |        |       |
