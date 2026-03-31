@@ -1,0 +1,16 @@
+{
+  "weather": [
+    {
+      "crop_id": "demo-crop",
+      "time": null,
+      "area_name": "Colombo",
+      "date": "2026-03-31",
+      "temperature": 30.0,
+      "humidity": 70.0,
+      "rainfall": 2.0,
+      "wind_speed": 5.0,
+      "forecast_condition": "sunny",
+      "id": "06e33b3d-2c23-4630-8b77-168d5f02bff9"
+    }
+  ]
+}

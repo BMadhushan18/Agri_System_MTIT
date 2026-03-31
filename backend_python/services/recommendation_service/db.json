@@ -1,0 +1,25 @@
+{
+  "recommendations": [
+    {
+      "crop_id": "demo-crop",
+      "target_date": "2026-04-01",
+      "target_date_end": "2026-04-02",
+      "advices": [
+        {
+          "advice_type": "general",
+          "start_date": "2026-04-01",
+          "end_date": "2026-04-02",
+          "water_amount": null,
+          "water_unit": null,
+          "advice_text": "Do something"
+        }
+      ],
+      "fertilizer_advice": null,
+      "irrigation_advice": null,
+      "pest_alert": null,
+      "general_notes": null,
+      "recommendation_type": "expert_task",
+      "id": "bbf9f152-1466-49ec-ab6d-4b35756268e5"
+    }
+  ]
+}

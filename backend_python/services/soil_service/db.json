@@ -1,0 +1,16 @@
+{
+  "soil": [
+    {
+      "crop_id": "demo-crop",
+      "field_name": "Field A",
+      "soil_type": "loam",
+      "ph_value": 6.5,
+      "moisture_level": 40.0,
+      "nitrogen_level": null,
+      "phosphorus_level": null,
+      "potassium_level": null,
+      "recorded_date": "2026-03-31",
+      "id": "927a38ec-df64-41b2-abdd-dc94b156c551"
+    }
+  ]
+}

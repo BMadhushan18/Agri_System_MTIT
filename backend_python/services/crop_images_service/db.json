@@ -1,0 +1,25 @@
+{
+  "crop_images": [
+    {
+      "crop_name": "Mango",
+      "crop_type": "Fruit",
+      "crop_image_name": "crop_mango.png",
+      "image_url": "https://paradisenursery.com/cdn/shop/files/vibrant.mango.indica.tree.fruit..webp?v=1757731713",
+      "id": "crop-img-mango-001"
+    },
+    {
+      "crop_name": "Rice",
+      "crop_type": "Grain",
+      "crop_image_name": "crop_rice.png",
+      "image_url": "https://static.vecteezy.com/system/resources/thumbnails/052/325/765/small/farmer-holding-rice-crop-in-hands-at-plantation-during-harvest-season-photo.jpeg",
+      "id": "crop-img-rice-001"
+    },
+    {
+      "crop_name": "Tomato",
+      "crop_type": "Vegetable",
+      "crop_image_name": "crop_tomato.png",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/CR2pAVBK3Hy7DsUoqiDsGM.jpg",
+      "id": "crop-img-tomato-001"
+    }
+  ]
+}

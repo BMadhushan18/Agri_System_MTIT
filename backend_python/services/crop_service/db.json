@@ -1,0 +1,20 @@
+{
+  "images": [],
+  "crops": [
+    {
+      "crop_name": "Rice",
+      "crop_type": "Grain",
+      "planting_date": "2026-03-31",
+      "harvest_date": "2026-04-04",
+      "field_location": "dehival A",
+      "province": "Western",
+      "city": "Colombo",
+      "village": "Dehiwala",
+      "farmer_name": "BawanthaB",
+      "status": "growing",
+      "crop_image_path": "https://static.vecteezy.com/system/resources/thumbnails/052/325/765/small/farmer-holding-rice-crop-in-hands-at-plantation-during-harvest-season-photo.jpeg",
+      "crop_image_name": "crop_rice.png",
+      "id": "e5bc4ef0-252c-4bcd-8b76-efaba3bb754c"
+    }
+  ]
+}

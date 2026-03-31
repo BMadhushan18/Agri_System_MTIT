@@ -1,0 +1,23 @@
+{
+  "name": "frontend_react",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node esbuild-dev.js",
+    "start": "node esbuild-dev.js",
+    "build": "esbuild src/main.jsx --bundle --outfile=dist/main.js --loader:.js=jsx --loader:.jsx=jsx",
+    "serve": "python -m http.server 5173 --directory dist"
+  },
+  "dependencies": {
+    "axios": "^1.14.1",
+    "leaflet": "^1.9.4",
+    "lucide-react": "^1.7.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.30.3"
+  },
+  "devDependencies": {
+    "esbuild": "^0.19.0"
+  }
+}
